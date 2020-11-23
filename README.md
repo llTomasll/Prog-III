@@ -10,3 +10,6 @@ Creacion de las clases necesarias
 Implementacion de estructuras
 ### Sabado 22/11:
 Creacion del repositorio e eliminacion de problemas
+
+## Alumnos:
+[Tomas Gonzalez](https://github.com/llTomasll) y [Angie Cerrutti](https://github.com/AngieLCerrutti)
